@@ -5,7 +5,7 @@ on:
     branches: master
   workflow_dispatch:
   schedule:
-    - cron: '10 */11 * * *'
+     - cron: '* * * * *'
 
 jobs:
   build:
@@ -23,6 +23,6 @@ jobs:
     - name: Commit change & Push
       run: |
           git config user.name 'GoodbyeKittyy'
-          git config user.email 'reversesitaution12@gmail.com'
+          git config user.email 'reversesituation12@gmail.com'
           git commit -am "plant some tree 🌳"
           git push
