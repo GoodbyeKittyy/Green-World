@@ -397,3 +397,4 @@ Quote on |Tue, 11 Jun 2024 22:26:42 GMT| :  If you're trying to achieve, there w
 Quote on |Tue, 11 Jun 2024 22:32:55 GMT| :  Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible. - Hannah Arendt
 Quote on |Tue, 11 Jun 2024 22:39:02 GMT| :  All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason. - Immanuel Kant
 Quote on |Tue, 11 Jun 2024 22:44:57 GMT| :  Good actions give strength to ourselves and inspire good actions in others. - Plato
+Quote on |Tue, 11 Jun 2024 22:50:37 GMT| :  He who knows that enough is enough will always have enough. - Laozi
