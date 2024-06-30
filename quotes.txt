@@ -3161,3 +3161,4 @@ Quote on |Sun, 30 Jun 2024 03:48:16 GMT| :  Don't turn away from possible future
 Quote on |Sun, 30 Jun 2024 03:54:00 GMT| :  I have done my best: that is about all the philosophy of living one needs. - Lin Yutang
 Quote on |Sun, 30 Jun 2024 03:59:39 GMT| :  The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself. - Henry Miller
 Quote on |Sun, 30 Jun 2024 04:16:55 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
+Quote on |Sun, 30 Jun 2024 04:29:13 GMT| :  Argue for your limitations, and sure enough they're yours. - Richard Bach
